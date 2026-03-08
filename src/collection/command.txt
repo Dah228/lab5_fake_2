@@ -1,0 +1,15 @@
+show
+
+
+add
+jjj
+33
+4
+3
+4
+plane
+gasoline
+
+show
+execute_script src/collection/command.txt
+
